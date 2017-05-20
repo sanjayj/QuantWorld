@@ -1,2 +1,2 @@
-# QuantWorld
+# Quantifying the World
 Case studies
